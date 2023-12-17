@@ -1,0 +1,6 @@
+name: DeathHunt
+version: '${project.version}'
+main: org.deathhunt.deathhunt.DeathHunt
+api-version: '1.18'
+description: Who can get the most unique death messages!
+load: POSTWORLD
